@@ -14,4 +14,4 @@ void loop() {
   digitalWrite(10,digitalRead(8));
 } 
 
-//Dijital çıkış a pinleri belirtip çıktıya alırız ve zaten void loop'da yani döngüde olduğu için işlem kapatmadığımız taktirde döngüde kalı
+//Dijital çıkış a pinleri belirtip çıktıya alırız ve zaten void loop'da yani döngüde olduğu için işlem kapatmadığımız taktirde döngüde kalır.
